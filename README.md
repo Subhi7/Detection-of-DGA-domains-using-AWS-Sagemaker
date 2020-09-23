@@ -5,6 +5,9 @@ This project aims to create a product that predicts if a FQDN or URL is a DGA or
 Tasks Performed:
 
 Design a web service API that accomplishes the following: www.google.com (Links to an external site.) -> [ TRUE, FALSE].
+
 Collect and label the training dataset
+
 Select a model and train it
+
 Deploy it to production
